@@ -22,7 +22,7 @@ def translate_text(text, target_language="id"):
         print(f"Error: {response.status_code}")
         return None
 
-input_file = "split-id-to-en.csv"
+input_file = "en.csv"
 output_file = "en-to-id.csv"
 df = pd.read_csv(input_file)
 
