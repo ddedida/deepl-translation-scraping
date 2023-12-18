@@ -1,1 +1,3 @@
-# deepl-translation-scrapping
+# DeepL Translation Scraping
+
+Scrape from DeepL Translation
